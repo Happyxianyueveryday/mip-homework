@@ -6,6 +6,6 @@
 
 ## 目录
 #### Huffman: 实验1：普通哈夫曼编码 √
-#### AdaptiveHuffman: 实验2：自适应哈夫曼编码（比预期要困难，延期至11.22）
+#### AdaptiveHuffman: 实验2：自适应哈夫曼编码 √
 #### PicSwitch: 实验3：生成逐帧切换图像 √
 
