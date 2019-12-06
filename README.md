@@ -15,5 +15,5 @@
 #### AdaptiveHuffman: 自适应哈夫曼编码 √
 
 ### 作业3
-#### JPEG: JPEG图像压缩算法（完成时间待定）
+#### JPEGEncoder: JPEG图像压缩算法（预计12.8完成）
 
