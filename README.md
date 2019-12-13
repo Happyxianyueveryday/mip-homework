@@ -15,6 +15,6 @@
 #### AdaptiveHuffman: 自适应哈夫曼编码 √
 
 ### 作业3
-#### JPEG: JPEG图像压缩算法 √（已完成，提交作业ddl后再开放）
+#### JPEG: JPEG图像压缩算法 √（已完成https://github.com/Happyxianyueveryday/python-jpeg，提交作业ddl后再开放）
 #### MPEG: 待定
 
