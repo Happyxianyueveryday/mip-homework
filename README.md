@@ -1,8 +1,6 @@
 # mip-homework
 
-(mip=multimedia-information-processing)
-
-多媒体信息处理课程实验作业。仅供思路参考。
+多媒体课程实验作业。仅供思路参考。
 
 个人邮箱：pzharima@qq.com
 
